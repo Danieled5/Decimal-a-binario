@@ -1,0 +1,3 @@
+﻿  Conversor Decimal a binario.cpp
+C:\Users\Danieled\source\repos\Conversor Decimal a binario\Conversor Decimal a binario.cpp(13,18): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+  Conversor Decimal a binario.vcxproj -> C:\Users\Danieled\source\repos\Conversor Decimal a binario\x64\Debug\Conversor Decimal a binario.exe
